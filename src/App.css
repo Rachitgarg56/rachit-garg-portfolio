@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  padding: 1rem;
+  padding-bottom: 4rem;
+}
+
+.app-container {
+  max-width: 1200px;
 }
 
 .App-logo {
